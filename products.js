@@ -1,3 +1,5 @@
+// products array
+
 const products = [
     {
       id: 0,
