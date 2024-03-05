@@ -31,7 +31,8 @@ function renderProdcuts() {
 }
 renderProdcuts();
 
-// cart array
+// cart array 
+//local storage
 let cart = JSON.parse(localStorage.getItem("CART")) || [];
 updateCart();
 
